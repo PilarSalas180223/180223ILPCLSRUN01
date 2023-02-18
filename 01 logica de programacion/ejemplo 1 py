@@ -1,0 +1,9 @@
+# COMENTARIOS: Sirve para detar o documentar nuestro program
+# A los comentario los omite o no los toma en cuenta Python
+
+# Imprimiendo o mostrando en pantalla resultados
+print ("Hola Mundo")
+print ('Pilar');
+print (10+25)
+print (15-6)
+
