@@ -1,0 +1,4 @@
+condiciones 
+# a partir de la edad de una persona determinar si es > o >
+
+edad = int(intput("ingresa tu edad: "))
