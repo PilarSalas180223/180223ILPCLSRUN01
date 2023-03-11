@@ -1,0 +1,18 @@
+# PEDIR UN NUMERO DETERMINADO Y DECIR SI ES NUMERO PAR O IMPAR
+
+
+# ENTRADAS DE DATOS
+# crear las variables
+datoingresado = int(input("Ingresa un numero: "))
+
+# DECLARAR UNA CONSTANTE (Elemento que no puede cambiar su valor)
+
+
+# Procesos (Cálculos Matemáticos y/o Lógicos)
+if datoingresado % 2 == 0:
+   
+    # Salida de datos
+    print(f"El numero ",datoingresado," = es par")
+else: 
+    print(f"El numero ",datoingresado," = es impar")
+    

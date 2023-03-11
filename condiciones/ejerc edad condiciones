@@ -1,0 +1,13 @@
+# A partir de la edad de una persona determinar si es mayor o menor de edad
+
+# ENTRADAS DE DATOS
+# Declarar o crear las variables
+
+edad = int(input("Ingresa tu edad: "))
+if (edad >= 18): # true / false rango entre 18 y 120
+    print("Mayor de edad")
+elif (edad < 18): # true / false rango de 0 < 18
+    print("Menor de edad") 
+
+else: # edades invalidas: <o o> 120
+    print("Existe un error en la edad")
